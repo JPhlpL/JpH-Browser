@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SE" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Google" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.com/search?q=</Value>
+    </Setting>
+    <Setting Name="Yahoo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://search.yahoo.com/search;_ylt=Awr9BNYZJ0xdn2oAwG1DDWVH;_ylc=X1MDMTE5NzgwNDg2NwRfcgMyBGZyAwRncHJpZAMEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA3NlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMEcXN0cmwDNgRxdWVyeQNhc2RzYWQEdF9zdG1wAzE1NjUyNzE4MzI-?fr2=sb-top-search&amp;q=</Value>
+    </Setting>
+    <Setting Name="Bing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com/search?q=</Value>
+    </Setting>
+    <Setting Name="DuckDuckGo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://duckduckgo.com/html/?q=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
